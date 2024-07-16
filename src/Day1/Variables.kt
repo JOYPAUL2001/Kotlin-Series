@@ -1,3 +1,5 @@
+package Day1
+
 fun main(){
     var a = 8   // var type variable
     val c = 'a' // val type variable

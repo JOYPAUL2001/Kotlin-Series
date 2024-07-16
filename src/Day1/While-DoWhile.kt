@@ -1,3 +1,5 @@
+package Day1
+
 fun main(){
     var num = 5
     while(num>=1){

@@ -1,3 +1,5 @@
+package Day1
+
 fun main() {
     var a = true
     var b = false

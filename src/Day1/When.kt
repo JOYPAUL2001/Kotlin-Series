@@ -1,3 +1,5 @@
+package Day1
+
 fun main(){
     var name = "Dog"
 
